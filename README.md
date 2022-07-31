@@ -14,6 +14,8 @@ Nguyen Nguyen:
 
 Hung Huynh:
 
+- useIntersectionObserver()
+
 ##HOCs
 
 Phuong Vo:
