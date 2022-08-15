@@ -8,7 +8,7 @@ Phuong Vo:
 
 Ngan Nguyen:
 
-- useWebSockets()
+- useTransalate()
 
 Nguyen Nguyen:
 
