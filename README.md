@@ -25,3 +25,5 @@ Ngan Nguyen:
 Nguyen Nguyen:
 
 Hung Huynh:
+
+Nhat Luong: Validate form
