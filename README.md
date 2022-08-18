@@ -26,4 +26,4 @@ Nguyen Nguyen:
 
 Hung Huynh:
 
-Nhat Luong: validate form
+Nhat Luong: Validate form
